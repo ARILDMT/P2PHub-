@@ -1,0 +1,23 @@
+Copyright © 2025 Abdyldaev Kubanychbek Janybekovich (Arildmt)
+
+All rights reserved.
+
+This repository and its contents (including but not limited to the idea, concept, branding, and documentation of the "p2pHub" project) are the intellectual property of the author.
+
+The project is published for the purpose of sharing, validation, and receiving feedback from the community.
+
+You are NOT permitted to:
+- Copy, reproduce, or distribute any part of this project commercially or non-commercially.
+- Use the idea, name, or structure of this project to build derivative or competing platforms.
+- Claim ownership or credit for the concept or implementation.
+
+You MAY:
+- Read and explore the documentation.
+- Share the repository link for discussion or feedback.
+- Contact the author to discuss collaboration or licensing.
+
+By accessing or viewing this repository, you agree to these terms.
+
+For questions or partnership inquiries, please contact:  
+
+[LinkedIn](https://www.linkedin.com/in/arildmt?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
